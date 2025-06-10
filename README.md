@@ -27,4 +27,4 @@
 
 ## 📬 Контакт:
 - Email: najdoski.stefan@uklo.edu.mk
-- LinkedIn: [](https://www.linkedin.com/in/stefan-najdoski-7a055a2b4/)
+- LinkedIn: (https://www.linkedin.com/in/stefan-najdoski-7a055a2b4/)
